@@ -1,0 +1,1 @@
+Performed EDA on a sales dataset (Customers, Orders, Order Details, Products) using Python (Pandas, NumPy, Matplotlib, Seaborn). Conducted data cleaning, transformation, and modeling. Identified key insights on revenue trends, top products, customer behavior, and city-wise performance.
